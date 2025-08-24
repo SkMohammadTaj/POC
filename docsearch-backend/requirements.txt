@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+requests
+pydantic
+faiss-cpu
+google-generativeai
+PyPDF2
+python-docx

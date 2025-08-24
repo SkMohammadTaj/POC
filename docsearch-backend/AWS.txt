@@ -1,0 +1,17 @@
+ELB types: 
+
+Classic (layer 4 to 7) 
+-Old gen
+
+Application(Layer 7) 
+-Popular
+
+Network(Layer 4)
+-New gen
+-Very high performance
+
+Gateway 
+-manage a fleet of third-party virtual appliances that support GENEVE.
+
+*Layer 4 - TCP, TLS and UDP
+*Layer 7 - HTTP and HTTPS
